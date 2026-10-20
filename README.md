@@ -1,6 +1,6 @@
 # 6-DOF Robot — DH Kinematics and MATLAB Visualization
 
-MATLAB implementation of the homogeneous transformation matrices from **Assignment 03: DH Conventions**, EE7215/EC7215 Robotics and Automation, University of Ruhuna. The repository demonstrates cumulative forward transformations, frame origins, and 3D coordinate-frame visualization of a six-joint manipulator.
+MATLAB implementation of the homogeneous transformation matrices. The repository demonstrates cumulative forward transformations, frame origins, and 3D coordinate-frame visualization of a six-joint manipulator.
 
 ## Scope
 
