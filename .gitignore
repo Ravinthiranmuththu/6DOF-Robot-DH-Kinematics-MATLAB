@@ -1,0 +1,12 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.fig
+*.mat
+*.mex*
+slprj/
+codegen/
+*.mp4
+.DS_Store
+Thumbs.db
